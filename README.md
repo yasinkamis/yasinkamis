@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">A passionate Frontend Developer from Turkey</h3>
 
-<img align="center"  height="auto" width="50%" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<p align="center"><img align="center"  height="auto" width="50%" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /></p>
 
 <p align="left"> <a href="https://twitter.com/yasinkamis1" target="blank"><img src="https://img.shields.io/twitter/follow/yasinkamis1?logo=twitter&style=for-the-badge" alt="yasinkamis1" /></a> </p>
 
