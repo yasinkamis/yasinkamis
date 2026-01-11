@@ -22,11 +22,7 @@
 
 ### 🧐 About Me
 
-Türkiye merkezli bir yazılım geliştiricisiyim. Kariyerime Frontend odaklı başlayıp, şu anda **Full Stack** mimariler, **DevOps** süreçleri ve **AI destekli geliştirme** araçları üzerine yoğunlaşıyorum. Açık kaynak projeleri takip etmeyi, Next.js ekosistemindeki güvenlik gelişmelerini incelemeyi ve takım liderliği yaparak süreçleri optimize etmeyi seviyorum.
-
-- 🔭 **I’m currently working on:** Enterprise Internal Portals, AI-powered Chat Bots.
-- 🌱 **I’m currently learning:** Advanced AI integrations, Quarkus & Microservices patterns.
-- 💬 **Ask me about:** React, Next.js, Docker, Web Security, Team Management.
+I have more than four years of software development experience. I embarked on this journey starting with Python, followed by C++, C#, and JavaScript, and later developed an interest in Adobe Design Programs. This led me to enter the field of Frontend Development, where software and design converge. Producing high-quality content is of great importance to me. I am still eagerly developing myself in this field and learning the latest technologies.
 
 ---
 
