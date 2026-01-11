@@ -38,14 +38,20 @@ I have more than four years of software development experience. I embarked on th
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinkamis&show_icons=true&theme=dark&hide_border=true&locale=tr" height="150" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinkamis&layout=compact&theme=dark&hide_border=true" height="150" alt="langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinkamis&theme=tokyonight" alt="profile-details" />
 </div>
 
+<br />
+
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=yasinkamis&theme=dark&hide_border=true&locale=tr" height="150" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasinkamis&theme=tokyonight" alt="languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasinkamis&theme=tokyonight" alt="commits" height="180" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasinkamis&theme=tokyo-night&hide_border=true&area=true" alt="activity-graph" />
 </div>
 
 <br />
