@@ -41,24 +41,27 @@ I have more than four years of software development experience. I embarked on th
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinkamis&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="160" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=yasinkamis&show_icons=true&theme=transparent&hide_border=true&locale=tr" alt="Yasin's GitHub Stats" height="160" />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinkamis&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" height="160" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinkamis&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" height="160" />
+  </a>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinkamis&theme=tokyonight&hide_border=true" alt="Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=yasinkamis&theme=transparent&hide_border=true&locale=tr" alt="GitHub Streak" />
+  </a>
 </div>
 
-<br/>
-
-### 🏆 Achievements
+<br />
 
 <div align="center">
-  <a href="https://github.com/yasinkamis">
-    <img src="https://github-profile-trophy.vercel.app/?username=yasinkamis&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yasinkamis&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophy" />
   </a>
 </div>
 
@@ -67,3 +70,4 @@ I have more than four years of software development experience. I embarked on th
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yasinkamis&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
+
