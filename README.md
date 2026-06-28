@@ -19,7 +19,7 @@
 
 ### 🧐 About Me
 
-I have more than four years of software development experience. I embarked on this journey starting with Python, followed by C++, C#, and JavaScript, and later developed an interest in Adobe Design Programs. This led me to enter the field of Frontend Development, where software and design converge. Producing high-quality content is of great importance to me. I am still eagerly developing myself in this field and learning the latest technologies.
+I have more than five years of software development experience. I embarked on this journey starting with Python, followed by C++, C#, and JavaScript, and later developed an interest in Adobe Design Programs. This led me to enter the field of Frontend Development, where software and design converge. Producing high-quality content is of great importance to me. I am still eagerly developing myself in this field and learning the latest technologies.
 
 ---
 
